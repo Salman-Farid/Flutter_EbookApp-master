@@ -61,14 +61,6 @@ You can download from the appstore if you use an iPhone, iPad or a Mac with Sili
 | [**DIO**](https://pub.dev/packages/dio)                                | Network calls and File Download               |
 | [**Iridium Reader**](https://github.com/Mantano/iridium_reader_widget) | Plug and play reader widget for epubs         |
 
-## 🤓 Author(s)
-
-**Festus Babajide Olusegun**
-[![Twitter Follow](https://img.shields.io/twitter/follow/iamjideguru.svg?style=social)](https://twitter.com/iamjideguru)
-
-## 🔖 LICENCE
-
-[Apache-2.0](https://github.com/JideGuru/FlutterEbookApp/blob/master/LICENSE)
 
 <a href="https://github.com/JideGuru/FlutterEbookApp">
         <img width="500" alt="Star History Chart" src="https://api.star-history.com/svg?repos=JideGuru/FlutterEbookApp&type=Date">
